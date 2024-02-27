@@ -1,13 +1,20 @@
+/*
+* File: operation.hpp
+* Author: Phan Hoang Trung
+* Date: 12/07/2023
+* Description: This is a file include function declaration the operation
+*/
+
 #ifndef OPERATION_H
 #define OPERATION_H
 
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\employee.hpp"
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\customer.hpp"
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\room.hpp"
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\floor.hpp"
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\security.hpp"
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\bill.hpp"
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\feedback.hpp"
+#include "Header/employee.hpp"
+#include "Header/customer.hpp"
+#include "Header/room.hpp"
+#include "Header/floor.hpp"
+#include "Header/security.hpp"
+#include "Header/bill.hpp"
+#include "Header/feedback.hpp"
 
 void employeeLogIn(std::list <Employee> &Employee_Database);
 void addEmployee(std::list <Employee> &Employee_Database, Security Admin_Account_Original);

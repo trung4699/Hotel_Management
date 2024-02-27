@@ -1,12 +1,12 @@
 /*
 * File: employee.cpp
 * Author: Phan Hoang Trung
-* Date: 12/08/2023
+* Date: 12/07/2023
 * Description: This is a file for function definition of one employee
 * 
 */
 
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\employee.hpp"
+#include "Header/employee.hpp"
 
 WorkSchedule::WorkSchedule(Date date, ShiftWork shift)
 {

@@ -1,4 +1,11 @@
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\security.hpp"
+/*
+* File: security.cpp
+* Author: Phan Hoang Trung
+* Date: 12/07/2023
+* Description: This is a file for function definition for the security
+*/
+
+#include "Header/security.hpp"
 
 Security::Security()
 {

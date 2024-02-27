@@ -1,4 +1,11 @@
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\floor.hpp"
+/*
+* File: floor.cpp
+* Author: Phan Hoang Trung
+* Date: 12/07/2023
+* Description: This is a file for function definition of one floor
+*/
+
+#include "Header/floor.hpp"
 
 
 Floor::Floor()

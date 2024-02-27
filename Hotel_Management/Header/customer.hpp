@@ -1,18 +1,19 @@
-#ifndef CUSTOMER_H
-#define CUSTOMER_H
-
 /*
 * File: customer.hpp
 * Author: Phan Hoang Trung
-* Date: 12/08/2023
+* Date: 12/07/2023
 * Description: This is a file include function declaration of one customer
 */
+
+#ifndef CUSTOMER_H
+#define CUSTOMER_H
+
 
 #include <iostream>
 #include <string>
 #include <vector>
 #include <list>
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\general.hpp"
+#include "Header/general.hpp"
 
 
 typedef enum {

@@ -1,9 +1,14 @@
+/*
+* File: bill.hpp
+* Author: Phan Hoang Trung
+* Date: 12/07/2023
+* Description: This is a file include function declaration of one bill
+*/
+
 #ifndef BILL_H
 #define BILL_H
 
 #include <iostream>
-
-
 
 class Bill
 {

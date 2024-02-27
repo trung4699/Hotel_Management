@@ -1,3 +1,10 @@
+/*
+* File: feedback.hpp
+* Author: Phan Hoang Trung
+* Date: 12/07/2023
+* Description: This is a file include function declaration of one feedback
+*/
+
 #ifndef FEEDBACK_H
 #define FEEDBACK_H
 

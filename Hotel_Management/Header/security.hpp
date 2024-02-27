@@ -1,14 +1,14 @@
+/*
+* File: security.hpp
+* Author: Phan Hoang Trung
+* Date: 12/07/2023
+* Description: This is a file include function declaration for the security
+*/
+
 #ifndef SECURITY_H
 #define SECURITY_H
 
-/*
-* File: customer.hpp
-* Author: Phan Hoang Trung
-* Date: 12/08/2023
-* Description: This is a file include function declaration of one customer
-*/
-
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\employee.hpp"
+#include "Header/employee.hpp"
 
 class Security
 {

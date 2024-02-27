@@ -1,7 +1,14 @@
+/*
+* File: floor.hpp
+* Author: Phan Hoang Trung
+* Date: 12/07/2023
+* Description: This is a file include function declaration of one floor
+*/
+
 #ifndef FLOOR_H
 #define FLOOR_H
 
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\room.hpp"
+#include "Header/room.hpp"
 #include <vector>
 
 class Floor

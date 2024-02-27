@@ -1,19 +1,19 @@
 /*
 * File: main.cpp
 * Author: Phan Hoang Trung
-* Date: 12/08/2023
+* Date: 12/07/2023
 * Description: This is a main file for restaurant management
 * 
 */
 
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\customer.hpp"
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\employee.hpp"
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\operation.hpp"
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\room.hpp"
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\floor.hpp"
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\security.hpp"
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\bill.hpp"
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\feedback.hpp"
+#include "Header/customer.hpp"
+#include "Header/employee.hpp"
+#include "Header/operation.hpp"
+#include "Header/room.hpp"
+#include "Header/floor.hpp"
+#include "Header/security.hpp"
+#include "Header/bill.hpp"
+#include "Header/feedback.hpp"
 
 
 void customerManagement(std::list <Customer> &Customer_Database, Security &Admin_Account_Original)

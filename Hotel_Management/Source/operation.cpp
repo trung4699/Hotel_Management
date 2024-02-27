@@ -1,4 +1,11 @@
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 3 - Hotel Management\Header\operation.hpp"
+/*
+* File: operation.cpp
+* Author: Phan Hoang Trung
+* Date: 12/07/2023
+* Description: This is a file for function definition for operation
+*/
+
+#include "Header/operation.hpp"
 
 void employeeLogIn( std::list <Employee> &Employee_Database)
 {   
